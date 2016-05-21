@@ -1,0 +1,23 @@
+{
+  "name": "purescript-react-toolbox",
+  "homepage": "https://github.com/purescript-contrib/purescript-react",
+  "description": "React toolbox bindings for purescript",
+  "main": "",
+  "keywords": [
+    "purescript",
+    "react",
+    "react-toolbox"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "*",
+    "!src/**/*"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/purescript-contrib/purescript-react.git"
+  },
+  "dependencies": {
+    "purescript-react": "^0.7.1"
+  }
+}

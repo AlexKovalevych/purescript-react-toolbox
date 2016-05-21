@@ -1,0 +1,6 @@
+{
+  "name": "purescript-react-toolbox",
+  "version": "1.0.0",
+  "description": "React toolbox bindings for purescript",
+  "author": "Alex Kovalevych"
+}
