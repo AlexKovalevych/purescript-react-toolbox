@@ -1,6 +1,6 @@
 {
   "name": "purescript-react-toolbox",
-  "homepage": "https://github.com/purescript-contrib/purescript-react",
+  "homepage": "https://github.com/AlexKovalevych/purescript-react-toolbox",
   "description": "React toolbox bindings for purescript",
   "main": "",
   "keywords": [
@@ -15,7 +15,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/purescript-contrib/purescript-react.git"
+    "url": "git://github.com/AlexKovalevych/purescript-react-toolbox.git"
   },
   "dependencies": {
     "purescript-react": "^0.7.1"
